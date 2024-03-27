@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(250, 235, 215);
+}
+p{
+    border: solid 2px;
+    border-color: rgb(78, 47, 5);
+    width: 99%;
+    color: rgb(248, 248, 248);
+    border:  1px solid;
+    border-radius: 3px;
+    padding: 7px;
+    background-image: linear-gradient(to right, rgba(153, 122, 65, 0.555) , rgba(158, 135, 106, 0.473));
+    font-size: 17px;
+}
+h2{
+    color: rgb(97, 78, 55);
+}
+a{
+    display: inline;
+    padding: 10px 20px;
+    margin: 10px;
+    color: rgb(59, 44, 31);
+    background-color:rgba(153, 122, 65, 0.555);
+    transition: background-color 0.3 ease;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: rgb(252, 215, 174);
+}
+.galerie{
+    width: 398px;
+    margin: 18px 20px;
+    height: 300px;
+    object-fit: cover;
+}
+h5{
+    text-align: center;
+    }
